@@ -2,6 +2,7 @@
 ![License:AGPLv3](https://img.shields.io/badge/License-AGPLv3-blue.svg)
 ![SCP:SL](https://img.shields.io/badge/game-SCP:%20Secret%20Laboratory-red)
 ![Author](https://img.shields.io/badge/author-%E7%8C%AB%E5%BE%B7-brightgreen)
+
 为《SCP:秘密实验室》服务器添加 **MicroH.I.D** 的额外充电方式，不再依赖 SCP-914 加工
 
 ---
