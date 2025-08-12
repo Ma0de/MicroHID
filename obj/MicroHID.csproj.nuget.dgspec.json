@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\猫德的闲事创作\\MicroHID\\MicroHID.csproj": {}
+  },
+  "projects": {
+    "D:\\猫德的闲事创作\\MicroHID\\MicroHID.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\猫德的闲事创作\\MicroHID\\MicroHID.csproj",
+        "projectName": "MicroHID",
+        "projectPath": "D:\\猫德的闲事创作\\MicroHID\\MicroHID.csproj",
+        "packagesPath": "C:\\Users\\Maode\\.nuget\\packages\\",
+        "outputPath": "D:\\猫德的闲事创作\\MicroHID\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\development\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maode\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.8"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net4.8",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net4.8",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
